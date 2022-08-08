@@ -1,0 +1,2 @@
+# sqlplus
+sqlplus for gozero
